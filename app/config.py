@@ -6,4 +6,4 @@ class Config:
     POSTGRES_PORT = 5432
 
     DEBUG = True
-    SECRET_KEY = 'password'
+    SECRET_KEY = 'secret_key'
